@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Martin Torrez
 
-<!--
-**drneptuno/drneptuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Actualmente me desempeño como **DevOps Junior**, apasionado por la automatización, la entrega continua y los sistemas resilientes. Me encanta experimentar, aprender y mejorar constantemente.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas que manejo
+
+- 🐳 **Docker** & ⚙️ **Kubernetes**
+- ☁️ **Google Cloud Platform** (uso diario) & conocimientos básicos en **AWS**
+- 🔧 **CI/CD**: GitHub Actions, Jenkins
+- 🧰 **IaC y automatización**: conocimientos básicos de Terraform & Ansible
+- 📈 **Monitoreo & Observabilidad**: Grafana, Prometheus, Loki
+- 🧪 **Laboratorios prácticos**: Implementación de GitOps con ArgoCD
+- 💻 **Linux** (uso diario) & **Bash scripting**
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- GitOps con ArgoCD en un entorno práctico
+- Mejores prácticas en monitoreo e infraestructura escalable
+- Certificacion en Google Cloud Computing
+
+---
+
+## 🌱 Proactivo y con ganas de seguir creciendo profesionalmente  
+Busco seguir aprendiendo y contribuir en proyectos desafiantes que potencien mis habilidades en DevOps e infraestructura.
+
+---
+
+## 🔗 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/martin-torrez-ba19b855/)
+- 🖥️ [GitHub](https://github.com/drneptuno)
+
+---
